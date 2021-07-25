@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @meetpatel
-- 👀 I’m interested in learning new languages 
-- 🌱 I’m currently learning C# .Net
+- 👋 Hi, I’m @meetpatel 
+- 🌱 Learning 
 - 📫 My email to reach out to meetpatel7473@gmail.com
 
 <!---
